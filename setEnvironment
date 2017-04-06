@@ -1,0 +1,1 @@
+/usr/libexec/PlistBuddy -c Set CFBundleVersion 'UAT1' /Users/harishvitta/Documents/test/Info.plist
