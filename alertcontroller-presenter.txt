@@ -1,0 +1,1 @@
+http://stackoverflow.com/questions/38047436/uialertcontroller-as-a-utility-that-accepts-function-parameter
